@@ -1,5 +1,4 @@
-//Authors: Lauren Johnson, Liam Waddell
-//Student numbers: 300016250, 300021290
+//Author: Lauren Johnson
 //Assignment 2
 //Part 2
 //Utility class used to represent a calculator that converts infix to postfix
