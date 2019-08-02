@@ -1,5 +1,4 @@
-//Authors: Lauren Johnson, Liam Waddell
-//Student numbers: 300016250, 300021290
+//Author: Lauren Johnson
 //Assignment 2
 //Part 1
 //interface Stack created to be used for Questions 2 and 3, and for 
