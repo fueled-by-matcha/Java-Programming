@@ -1,5 +1,5 @@
-//Authors: Lauren Johnson, Liam Waddell
-//Student numbers: 300016250, 300021290
+//Author: Lauren Johnson,
+//Student numbers: 300016250
 //Assignment 2
 //Part 2
 //Utility class used to test MyCalculator
