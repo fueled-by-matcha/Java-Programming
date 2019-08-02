@@ -1,5 +1,4 @@
 //Authors: Lauren Johnson, Liam Waddell
-//Student numbers: 300016250, 300021290
 //Assignment 2
 //Part 1
 //Generic implementation of ListStack using Stack interface
