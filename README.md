@@ -1,2 +1,2 @@
-# Java-Programming
-Contains programming from ITI1121 class
+# My Calculator
+Assignment 2 from ITI1121
