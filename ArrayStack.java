@@ -1,5 +1,4 @@
-//Authors: Lauren Johnson, Liam Waddell
-//Student numbers: 300016250, 300021290
+//Authors: Lauren Johnson
 //Assignment 2
 //Part 1
 //generic implementation of ArrayStack using Stack interface
